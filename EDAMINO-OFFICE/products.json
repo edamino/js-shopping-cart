@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "office electronics",
+                "price": 19.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-electronics.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "office paper",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-paper.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "office furniture",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-furniture.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "office printers",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-printers.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "office supplies",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-supplies.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "office toner ink",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-toner-ink.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "office breakroom",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-breakroom.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "office computer accessories",
+                "price": 4.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/office-computer-accessories.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
